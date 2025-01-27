@@ -27,7 +27,4 @@ You can install these dependencies by running:
 ```bash
 pip install pandas matplotlib seaborn fpdf
 
-File Structure
-Customers.csv: Contains customer data (e.g., CustomerID, Region).
-Transactions.csv: Contains transaction data (e.g., TransactionID, TotalValue, TransactionDate).
-Products.csv: Contains product data (e.g., ProductID, Category, Price).
+
