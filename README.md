@@ -25,6 +25,6 @@ Before running the code, make sure you have the following Python libraries insta
 You can install these dependencies by running:
 
 ```bash
-pip install pandas matplotlib seaborn fpdf
+pip install pandas matplotlib seaborn 
 
 
